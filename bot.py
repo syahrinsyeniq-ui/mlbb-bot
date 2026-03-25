@@ -4,7 +4,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, CallbackQueryHandler
 
 # Konfigurasi
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8760375355:AAGKrsrtgJkxXx4p3OIFW5AyvQQ7VUeqdIQ"
 ML_API_BASE = "https://mlbb-api-production-api.lolivalkyrievalorant.com"
 
 # Logging
