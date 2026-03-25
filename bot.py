@@ -7,8 +7,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, CallbackQueryHandler
 
 load_dotenv()
-BOT_TOKEN = os.getenv("8760375355:AAGKrsrtgJkxXx4p3OIFW5AyvQQ7VUeqdIQ")
-assert BOT_TOKEN, "8760375355:AAGKrsrtgJkxXx4p3OIFW5AyvQQ7VUeqdIQ"
+BOT_TOKEN = os.getenv("8760375355:AAE3Bzw1Byf0J25EpzaJ1BdGPeEONi8M014")
+assert BOT_TOKEN, "8760375355:AAE3Bzw1Byf0J25EpzaJ1BdGPeEONi8M014"
 
 # Server List
 SERVERS = {
