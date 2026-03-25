@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 load_dotenv()
 BOT_TOKEN = os.getenv("8760375355:AAGKrsrtgJkxXx4p3OIFW5AyvQQ7VUeqdIQ")
-assert BOT_TOKEN, "BOT_TOKEN required!"
+assert BOT_TOKEN, "8760375355:AAGKrsrtgJkxXx4p3OIFW5AyvQQ7VUeqdIQ"
 
 # Server List
 SERVERS = {
